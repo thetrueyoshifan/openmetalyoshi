@@ -1,4 +1,4 @@
-// Importing the required discord.js library
+// Importing the required Discord.js library
 const Discord = require("discord.js");
 
 // Create a new client instance from discord.js

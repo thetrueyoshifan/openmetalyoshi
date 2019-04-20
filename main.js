@@ -1,7 +1,7 @@
 // Importing the required Discord.js library
 const Discord = require("discord.js");
 
-// Create a new client instance from discord.js
+// Create a new client instance from Discord.js
 const client = new Discord.Client();
 
 // Importing the fs library, to allow reading commands from a file
